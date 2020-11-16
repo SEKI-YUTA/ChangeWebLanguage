@@ -59,10 +59,10 @@ body {
 .check:checked::before {
   background: #00a1ff;
 }
-.check:checked ~ .content.content.contentEnglish {
+.check:checked ~ .content.contentEnglish {
   display: none;
 }
-.check:checked ~ .content.content.contentChinese {
+.check:checked ~ .content.contentChinese {
   display: block;
 }
 .en {
